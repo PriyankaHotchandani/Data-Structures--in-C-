@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599159286 source:c:\users\reshu\desktop\coding\data structures with c\stack applications\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

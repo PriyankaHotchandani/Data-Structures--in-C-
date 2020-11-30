@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603484251 source:c:\users\reshu\desktop\coding\data structures with c\implementation of dll\main.c
+	<stdio.h>
+	<stdlib.h>
+
